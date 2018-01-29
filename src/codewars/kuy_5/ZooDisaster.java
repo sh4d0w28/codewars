@@ -1,4 +1,4 @@
-package codewars.kuy_5;
+package kuy_5;
 /*
 * Story
 A freak power outage at the zoo has caused all of the electric cage doors to malfunction and swing open...

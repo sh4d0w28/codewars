@@ -1,4 +1,4 @@
-package codewars.kuy_6;
+package kuy_6;
 
 import java.util.Arrays;
 

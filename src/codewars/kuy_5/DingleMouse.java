@@ -1,4 +1,4 @@
-package codewars.kuy_5;
+package kuy_5;
 
 class Preloaded {
     public static final String ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ ?!@#&()|<>.:=-+*/0123456789";

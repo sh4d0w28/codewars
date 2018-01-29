@@ -1,4 +1,4 @@
-package codewars.kuy_4;
+package kuy_4;
 
 import java.net.URI;
 import java.util.*;
